@@ -31,10 +31,14 @@ The third part is optional although highly encouraged.
 	* Any other areas where you'd like to grow
 How much time will you spend on each? When will you do each thing?
 
-
+9-12am: Code challenges
+1-2:30pm: Research companies that interests me and research potential connections
+3-5pm: Outreach based on research
+5-7pm: Apply to jobs
 
 2. Backwards planning: What is your cut-off for ending the job search? When do you want to receive and sign an offer by?
 
+I'd like to recieve an offer by November 20th
 
 
 3. Based on what you outlined above, create monthly, weekly, and daily goals in order to reach your big goal.
@@ -45,7 +49,7 @@ Keep in mind:
 * What is feasible in your schedule?
 * What actions will give you the most impact in your search?
 
-
+My daily goal is to have sent out 5 emails and apply to 
 
 4. Block out time on your calendar *now* to adhere to these goals. At the end of each week, assess what worked with the schedule and what didn't so that you can make adjustments as needed and manage your time even more effectively for the following week. 
 
