@@ -78,8 +78,6 @@ Mainly, My barriers were finding away to cold outreach effectively. I've recentl
 ## #2: Longterm Career Plan: What are your career goals?
 Where do you want to go in your career? 
 
-I see myself climbing the tech ladder and becoming a senior or principle engineer.
-
 Reflect on this [narrative rule described by Emma Coats, former Pixar story artist](http://storyshots.tumblr.com/post/25032057278/22-storybasics-ive-picked-up-in-my-time-at-pixar):
 
 	Come up with your ending before you figure out your middle. Seriously. 
@@ -98,6 +96,8 @@ Reflect on this [narrative rule described by Emma Coats, former Pixar story arti
 
 
 3. Reference what you outlined in your Flower Exercise -- what preferred level of responsibility do you want to move to? Do you want to start your own company? What kind of work do you see yourself doing longterm? In your first year on the job, what skills do you want to develop to work towards your longterm goals?
+
+In 5 years, I will continue to establish connections and broaden my network. I will be climbing the tech ladder and be in a role of senior software engineer or principal engineer. I will be proficient in atleast 7 different programming languages. I will be working with mainly React and React Native. 
 
 
 
