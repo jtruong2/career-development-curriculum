@@ -31,17 +31,26 @@ The third part is optional although highly encouraged.
 	* Any other areas where you'd like to grow
 How much time will you spend on each? When will you do each thing?
 
-9-12am: Code challenges
-1-2:30pm: Research companies that interests me and research potential connections
-3-5pm: Outreach based on research
-5-7pm: Apply to jobs
+7:30-8:30am: Send out 7 linkedin messages
+
+9-12am: Code challenges/ Work on projects
+
+1-2:30pm: Prepare Resumes and apply to jobs
+
+2:30-4: Upgrade current skills
 
 2. Backwards planning: What is your cut-off for ending the job search? When do you want to receive and sign an offer by?
 
-I'd like to recieve an offer by November 20th
+I'd like to recieve an offer by December 1st. So my plan will look like this:
+Nov. 19th - Nov 30th: Scheduled interviews
+Today - Nov. 18th: Network, connect and apply
 
 
 3. Based on what you outlined above, create monthly, weekly, and daily goals in order to reach your big goal.
+
+Daily goals: My daily goal is to make 1-3 connections that I can have a follow up conversation. To reach that goal I estimate I will have to send out 6-7 linkedin messages every morning.
+
+Weekly goals: Based on the number of connections I've made over the week, My goal is to send out 10-15 resumes out to my connections.
 
 Keep in mind:
 
@@ -49,17 +58,16 @@ Keep in mind:
 * What is feasible in your schedule?
 * What actions will give you the most impact in your search?
 
-My daily goal is to have sent out 5 emails and apply to 
 
 4. Block out time on your calendar *now* to adhere to these goals. At the end of each week, assess what worked with the schedule and what didn't so that you can make adjustments as needed and manage your time even more effectively for the following week. 
 
 
-
+Done!
 
 
 5. What "barriers" tend to hold you back in the job search? What steps will you take to overcome those "barriers"?
 
-
+Mainly, My barriers were finding away to cold outreach effectively. I've recently found a great system and overcame those barriers.
 
 
 
@@ -69,6 +77,8 @@ My daily goal is to have sent out 5 emails and apply to
 
 ## #2: Longterm Career Plan: What are your career goals?
 Where do you want to go in your career? 
+
+I see myself climbing the tech ladder and becoming a senior or principle engineer.
 
 Reflect on this [narrative rule described by Emma Coats, former Pixar story artist](http://storyshots.tumblr.com/post/25032057278/22-storybasics-ive-picked-up-in-my-time-at-pixar):
 
